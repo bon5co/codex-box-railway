@@ -1,0 +1,6 @@
+# Copied to $CODEX_HOME/config.toml on first boot only; edit it freely afterwards.
+# Sessions run inside a container that is already isolated from anything you care about,
+# and the workspace is the volume, so the default working directory is set explicitly.
+
+[tui]
+notifications = true
