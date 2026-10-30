@@ -1,5 +1,9 @@
 # codex-box-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/codex-box-v0147-or-remote-dev-machine-pi?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Codex Box template](https://railway.com/deploy/codex-box-v0147-or-remote-dev-machine-pi?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Prebuilt, pinned remote development machine for the [OpenAI Codex CLI](https://developers.openai.com/codex),
 packaged for Railway. Image: `ghcr.io/bon5co/codex-box-railway`.
 
